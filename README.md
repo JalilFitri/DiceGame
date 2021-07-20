@@ -20,9 +20,13 @@ then go to file section and
 click below file:
 
 DiceGame_final.v
+
 DU.v
+
 CU.v
+
 bcdsegment.v
+
 slowclock.v
 
 finally,you will get full code dicegame.
