@@ -13,6 +13,7 @@
 6. Other number combination will give chances to roll again and again.
 
 *HOW TO RUN OUR CODE*
+
 open dicegame.qpf
 then go to file section and 
 
