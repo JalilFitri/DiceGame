@@ -4,6 +4,9 @@
 //Abdul Hafiz
 //Abdul Jalil Fitri Ayub
 
+*Dice Game FBD*
+![CU_DU](https://user-images.githubusercontent.com/87671629/126257456-cd6acae7-6268-44da-a29b-b713021d006c.png)
+
 *HOW THE GAME RUN*
 1. The two counters will run autonomously from 1 to 6 repeatedly that act as the dices.
 2. button 1 and button 2 will be pressed at random time to choose a random number from the counters.
