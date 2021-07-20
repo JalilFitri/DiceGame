@@ -18,6 +18,7 @@ open dicegame.qpf
 then go to file section and 
 
 click below file:
+
 DiceGame_final.v
 DU.v
 CU.v
