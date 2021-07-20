@@ -5,6 +5,7 @@
 //Abdul Jalil Fitri Ayub
 
 *Dice Game FBD*
+
 ![CU_DU](https://user-images.githubusercontent.com/87671629/126257456-cd6acae7-6268-44da-a29b-b713021d006c.png)
 
 *HOW THE GAME RUN*
@@ -14,6 +15,11 @@
 4. Win condition if the sum = 8 (green LED ON)
 5. Lose condition if the sum = 11 (red LED OFF)
 6. Other number combination will give chances to roll again and again.
+
+*Dice Game ASM Chart*
+
+![ASMchart](https://user-images.githubusercontent.com/87671629/126257564-4aa1c003-a6f9-4986-a9ed-85e420a6f078.png)
+
 
 *HOW TO RUN OUR CODE*
 
