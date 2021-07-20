@@ -15,18 +15,18 @@
 *HOW TO RUN OUR CODE*
 
 open dicegame.qpf
-then go to file section and 
+then go to *Project Navigator* to *Expand All* and 
 
 click below file:
 
-DiceGame_final.v
+1. DiceGame_final.v
 
-DU.v
+2. DU.v
 
-CU.v
+3. CU.v
 
-bcdsegment.v
+4. bcdsegment.v
 
-slowclock.v
+5. slowclock.v
 
 finally,you will get full code dicegame.
